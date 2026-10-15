@@ -148,6 +148,7 @@
     <ClCompile Include="Function overloading.cpp" />
     <ClCompile Include="fwrite &amp; fread program.c" />
     <ClCompile Include="graphics.c" />
+    <ClCompile Include="Inheritance.cpp" />
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="Linked List.c" />
     <ClCompile Include="main.c" />
@@ -163,6 +164,7 @@
     <ClCompile Include="Structure.cpp" />
     <ClCompile Include="switch.c" />
     <ClCompile Include="takesomethingreturn.c" />
+    <ClCompile Include="this pointer.cpp" />
     <ClCompile Include="typedef.c" />
     <ClCompile Include="Union.c" />
     <ClCompile Include="Wild Pointer.c" />

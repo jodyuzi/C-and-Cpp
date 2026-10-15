@@ -124,6 +124,12 @@
     <ClCompile Include="Friend Function.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="Inheritance.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="this pointer.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c">
