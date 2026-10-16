@@ -152,6 +152,8 @@
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="Linked List.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="Method Overriding.cpp" />
+    <ClCompile Include="new and delete # sma &amp; dma.cpp" />
     <ClCompile Include="Operator overloading.cpp" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="Recursion.c" />

@@ -130,6 +130,12 @@
     <ClCompile Include="this pointer.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="new and delete # sma &amp; dma.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Method Overriding.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c">
