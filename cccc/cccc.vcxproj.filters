@@ -136,6 +136,9 @@
     <ClCompile Include="Method Overriding.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="Virtual Function.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c">
