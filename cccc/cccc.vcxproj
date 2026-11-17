@@ -129,6 +129,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="#define.c" />
+    <ClCompile Include="Deep Copy and Shallow Copy.cpp" />
+    <ClCompile Include="File Handling.cpp" />
     <ClCompile Include="array.c" />
     <ClCompile Include="array2dimensonal.c" />
     <ClCompile Include="Bit Fields.c" />
@@ -149,6 +151,7 @@
     <ClCompile Include="fwrite &amp; fread program.c" />
     <ClCompile Include="graphics.c" />
     <ClCompile Include="Inheritance.cpp" />
+    <ClCompile Include="Initializers.cpp" />
     <ClCompile Include="inline.cpp" />
     <ClCompile Include="Linked List.c" />
     <ClCompile Include="main.c" />
@@ -166,14 +169,20 @@
     <ClCompile Include="Structure.cpp" />
     <ClCompile Include="switch.c" />
     <ClCompile Include="takesomethingreturn.c" />
+    <ClCompile Include="tellg and tellp seekg and seekp.cpp" />
+    <ClCompile Include="Template.cpp" />
     <ClCompile Include="this pointer.cpp" />
+    <ClCompile Include="Type Conversion.cpp" />
     <ClCompile Include="typedef.c" />
     <ClCompile Include="Union.c" />
-    <ClCompile Include="Virtual Function.cpp" />
+    <ClCompile Include="Virtual Function &amp; Abstract Class.cpp" />
     <ClCompile Include="Wild Pointer.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\switchcontrol.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Type Conversion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

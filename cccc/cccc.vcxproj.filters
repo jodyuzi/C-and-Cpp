@@ -136,7 +136,25 @@
     <ClCompile Include="Method Overriding.cpp">
       <Filter>C++</Filter>
     </ClCompile>
-    <ClCompile Include="Virtual Function.cpp">
+    <ClCompile Include="Virtual Function &amp; Abstract Class.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="File Handling.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Template.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="tellg and tellp seekg and seekp.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Initializers.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Deep Copy and Shallow Copy.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Type Conversion.cpp">
       <Filter>C++</Filter>
     </ClCompile>
   </ItemGroup>
@@ -144,5 +162,8 @@
     <None Include="..\switchcontrol.c">
       <Filter>Source Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Type Conversion.h" />
   </ItemGroup>
 </Project>
